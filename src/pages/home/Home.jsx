@@ -1,12 +1,9 @@
-
-import {Hero} from '../../componets'
+import { Hero } from "../../componets";
 
 export const Home = () => {
   return (
     <div>
-      <Hero/>
-
-      
-      </div>
-  )
-}
+      <Hero />
+    </div>
+  );
+};

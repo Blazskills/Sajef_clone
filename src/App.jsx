@@ -2,7 +2,8 @@ import "./App.css";
 import { Home } from "./pages/home/Home";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { NotFound } from "./pages/errorpage/NotFound";
-import { NavBar } from "./componets/navbar/NavBar";
+// import { NavBar } from "./componets/navbar/NavBar";
+import { NavBar } from "./componets";
 // import { useState } from "react";
 // import css from "../src/AppJs.module.css";
 
