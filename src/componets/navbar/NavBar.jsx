@@ -15,8 +15,6 @@ export const NavBar = () => {
             <li key={item.label}>
               <a
                 href={item.href}
-                target="_blank"
-                rel="noopener noreferrer"
                 className="font-montserrat leading-normal text-lg text-slate-gray"
               >
                 {item.label}
