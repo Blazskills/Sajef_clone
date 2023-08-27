@@ -61,4 +61,4 @@ Real Project.
 ## ClonedLink
 
 Cloned Project.
- <a href="http://localhost:5173">Original Url</a>
+ <a href="http://localhost:5173">Cloned Url</a>
