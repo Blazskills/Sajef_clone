@@ -34,8 +34,8 @@ How to use your project.
 
 <!-- Side-by-side images -->
 <div>
-    <img src="path/to/image1.jpg" alt="Screenshot 1" width="45%"/>
-    <img src="path/to/image2.jpg" alt="Screenshot 2" width="45%"/>
+    <img src="src/assets/images/1.png" alt="Screenshot 1" width="45%"/>
+    <img src="src/assets/images/2.png" alt="Screenshot 2" width="45%"/>
 </div>
 
 ## Contributing
