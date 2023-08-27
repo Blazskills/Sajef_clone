@@ -11,8 +11,11 @@ Brief project description here.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [MobileScreenshots](#mobilescreenshots)
 - [Contributing](#contributing)
 - [License](#license)
+- [OriginalLink](#originallink)
+- [ClonedLink](#clonedlink)
 
 ## Introduction
 
@@ -34,14 +37,28 @@ How to use your project.
 
 <!-- Side-by-side images -->
 <div>
-    <img src="src/assets/images/1.png" alt="Screenshot 1" width="45%"/>
-    <img src="src/assets/images/2.png" alt="Screenshot 2" width="45%"/>
+    <img src="src/assets/images/1.png" alt="original image" width="45%"/>
+    <img src="src/assets/images/2.png" alt="Clone" width="45%"/>
+</div>
+
+## MobileScreenshots
+
+<!-- Side-by-side images -->
+<div>
+    <img src="src/assets/images/m1.png" alt="original image" width="45%"/>
+    <img src="src/assets/images/m2.png" alt="Clone" width="45%"/>
 </div>
 
 ## Contributing
 
 Guidelines for contributing to the project.
 
-## License
+## OriginalLink
 
-Information about the project's license.
+Real Project.
+ <a href="https://nike-rosy.vercel.app/">Original Url</a>
+
+## ClonedLink
+
+Cloned Project.
+ <a href="http://localhost:5173">Original Url</a>
